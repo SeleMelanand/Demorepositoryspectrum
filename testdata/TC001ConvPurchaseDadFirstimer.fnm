@@ -1,0 +1,71 @@
+EH                                20170918   ENV1     
+TH T100099-002TRAN1    
+TPI1.00 011347676998                    R
+0001  3.20 W
+00ANN
+01A01                                                                                                              3111002510           100000.00  4.25012005                                                                                                                                                                
+02A4321 CULVER STREET                                IRVINE                             CA92606      2F1SEE PRELIMINARY TITLE REPORT                                                    1964
+02B  16                                                                                1Tenants By The Entirety                                     1        
+02CDad Firstimer                                               
+02CMom Firstimer                                               
+02E07       45000.00Credit Union Loan                                                               
+03ABW999008881Dad                                                                   Firstimer                              5154326789   16S 2 99900888219660724dfirstimer@fanniemae.com                                                        
+03AQZ999008882Mom                                                                   Firstimer                              5154326789   18M 0 99900888119620321mfirstimer@fanniemae.com                                                        
+03B999008881  1
+03B999008881  1
+03C999008881ZG888 Willis Ave.                                   Dawson                             IA50060    O 0                                                    
+03C999008882ZG888 Willis Ave.                                   Dawson                             IA50060    O 0                                                    
+04A999008881Shaggies                                                                                                            N 8   8                                   
+04A999008882Maggies                                                                                                             N 5 6 5                                   
+05H999008881101          50.00
+05H999008881114         100.00
+05H999008881123         100.00
+05H999008881226        1024.38
+05H999008881222          87.64
+05H999008881201          60.00
+05H999008881214          75.00
+05H999008881206          50.00
+05I99900888120        3200.00
+05I99900888133        4711.00
+05I99900888220         500.00
+06C999008881F1 With Realtor                                                                                                                                              7500.00                                                                                          
+06C999008881F7                                                                                                                                                          20000.00                                                                                          
+06C99900888103                                                                                                                                                           3500.00                                                                                          
+06C999008881SG                                                                                                                                                          15000.00                                                                                          
+06C999008882SG                                                                                                                                                          10000.00                                                                                          
+06C999008881M1                                                                                                                                                           2000.00                                                                                          
+06G9990088818888 Industrial Parkway            El Paso                            TX80935    H02       80000.00       18244.00           0.00         278.00         400.00        -678.00NN1                
+06G999008881888 Willis Ave.                    Dawson                             IA80935    R18      150000.00       92489.00        4711.00        1117.00         465.00        4711.00YN2                
+06L999008881M BRING YOU HOME MTG.                                                                                                 00853478576                           1117.00 83       92489.00N  NN  
+06L999008881M HOME 4 YOU MTG.                                                                                                     31684-1571                             278.00 66       18244.00N  NN  
+06L999008881I FIRST CITY BANK                                                                                                     2127524795                             242.00 20        4761.00N  NN  
+06L999008881I YOU AUTO BUY CAR LOAN                                                                                               478399751                              345.00 45       15185.00N  NN  
+06L999008881I HOWDY BANK                                                                                                          653411956                              140.00  1         140.00N  NN  
+06L999008881R MACY'S                                                                                                              883461751                               20.00 12         226.00N  NN  
+06L999008881R DILARD'S                                                                                                            5551212202                              10.00 26         253.00N  NN  
+06L999008881R KOHL'S                                                                                                              6543554316                              16.00 20         320.00N  NN  
+06L999008881R VISA                                                                                                                358479515                               79.00 34        2663.00N  NN  
+06L999008881R MASTERCARD                                                                                                          245431876                               40.00 30        1200.00N  NN  
+07A      145000.00           0.00           0.00           0.00         354.17          65.00           0.00           0.00        5000.00           0.00           0.00
+07B01        7500.00
+07B08         376.00
+07B         -5000.00
+07B         -5000.00
+08A999008881NNNNNNNNN01YYD25
+08A999008882NNNNNNNNN01YYD25
+10A999008881N4                              M
+10A999008882N4                              F
+10BIManagerC2 TPO1                                                      8583124900C2 FINANCIAL CORPORATION TEST      10509 VISTA SORRENTO SUITE 200                                        SAN DIEGO                          CA92121    
+10R9990088815 
+10R9990088825 
+00070 3.20 
+99BN             0.00                                                                                                                            
+ADSLoanOriginatorID                   196648                                            
+ADSLoanOriginationCompanyID           135622                                            
+ADSAppraisalIdentifier                                                                  
+00011 3.20 
+LNC1F01                 N     0.000                      Y2017110120180101  0.000   0.000N 
+PID                                                  
+PCH120N01N   
+TT TRAN1    
+ET ENV1     

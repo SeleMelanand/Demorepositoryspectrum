@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes">
+  <test name="Test" parallel="classes">
+    <classes>
+      <class name="com.selenium.spectrum.testcases.Tc01LoanOrigination"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

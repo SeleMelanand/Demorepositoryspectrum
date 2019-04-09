@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="com.selenium.spectrum.testcases.Tc01LoanOrigination">
+        <methods>
+          <include name="browserlaunch"/>
+          <include name="loancreation"/>
+        </methods>
+      </class> <!-- com.selenium.spectrum.testcases.Tc01LoanOrigination -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

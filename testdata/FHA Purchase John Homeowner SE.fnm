@@ -1,0 +1,70 @@
+EH                                20171211   ENV1     
+TH T100099-002TRAN1    
+TPI1.00 011088601998                    R
+0001  3.20 W
+00ANN
+01A03                                                                                                              IMPAC00793           482500.00  4.12536005                                                                                                                                                                
+02A175 13th Street                                   Costa Mesa                         CA92626      1F1SEE PRELIMINARY TITLE REPORT                                                    1998
+02B  16                                                                                1Community property                                          1        
+02CJohn Homeowner                                              
+02CMary Homeowner                                              
+03ABW999405000John                                                                  Homeowner                              9494753848 3918M 0 50022200019750615lisa.kelly@impacmail.com                                                        
+03AQZ500222000Mary                                                                  Homeowner                              9494753848 3815M 0 99940500019760615jamie.roach@impacmail.com                                                       
+03C999405000ZG175 13th Street                                   Washington                         DC20013    R 5                                                    
+03C500222000ZG175 13th Street                                   Washington                         DC20013    R 5                                                    
+04A999405000Move Over                          1234 Main                          Costa Mesa                         CA92626    Y 5   5Owner                    9494753848
+04A500222000Maybe later                        5687 Left turn                     Costa Mesa                         CA92626    N 4   6Sales                    9494753848
+05H999405000125        2200.00
+05H999405000226        2379.35
+05H999405000201         109.38
+05H999405000214         520.83
+05H999405000202         339.09
+05I99940500020        8750.00
+05I50022200020        6000.00
+06C99940500003 Bank of America                                                                                                     5555                                150000.00                                                                                          
+06C999405000SG Bank of America                                                                                                     2354                                200000.00                                                                                          
+06L999405000I TOYOTA CREDIT                                                                                                       321098                                 500.00  0       15838.00N  NN  
+06L999405000I CHASE                                                                                                               586523                                 257.00  0        5000.00N  NN  
+06L999405000I SALLIE MAE                                                                                                          950254                                 180.00  0        5000.00N  NN  
+06L999405000I SALLIE MAE                                                                                                          752340                                  25.00 75        1100.00N  NN  
+06L999405000I SALLIE MAE                                                                                                          752340                                  25.00  0        1100.00N  NN  
+06L999405000R UNIVERSAL VISA                                                                                                      601178                                  25.00  0         950.00N  NN  
+07A      500000.00           0.00           0.00           0.00        5049.55       12335.75        8443.75           0.00           0.00           0.00        8443.00
+07B02        5000.00
+08A999405000NNNNNNNNN01YN   
+08A500222000NNNNNNNNN01YN   
+10A999405000N2                              M
+10A500222000N2                              F
+10BTScott Peterson                                                      9494753848Excel Mortgage Servicing, Inc.     19500 Jamboree Rd #200                                                Irvine                             CA92612    
+10R9994050005 
+10R5002220005 
+00070 3.20 
+99BN        200000.00       01                                                                                                                   
+ADSLoanOriginatorID                   196648                                            
+ADSLoanOriginationCompanyID           128231                                            
+ADSAppraisalIdentifier                                                                  
+ADSHMDAGenderType                     999405000:Male                                    
+ADSHMDAGenderRefusalIndicator         999405000:N                                       
+ADSHMDAEthnicityType                  999405000:NotHispanicOrLatino                     
+ADSHMDAEthnicityRefusalIndicator      999405000:N                                       
+ADSHMDARaceType                       999405000:1:White                                 
+ADSHMDARaceRefusalIndicator           999405000:N                                       
+ADSHMDAGenderType                     500222000:Female                                  
+ADSHMDAGenderRefusalIndicator         500222000:N                                       
+ADSHMDAEthnicityType                  500222000:NotHispanicOrLatino                     
+ADSHMDAEthnicityRefusalIndicator      500222000:N                                       
+ADSHMDARaceType                       500222000:1:White                                 
+ADSHMDARaceRefusalIndicator           500222000:N                                       
+00011 3.20 
+LNC1F01                 N     0.000                      N2017121120180201  0.000   0.000N 
+PIDFF25                                              
+PCH360Y01N   
+00020 3.20 
+IDA                       
+LEA3086500000                                                               
+GOAN           0.00           0.00                                                                   Orange                             
+GOB                        0.00  1.750                         
+GOE999405000                   A
+GOE500222000                   A
+TT TRAN1    
+ET ENV1     

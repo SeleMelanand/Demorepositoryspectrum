@@ -1,0 +1,68 @@
+EH                                20180118   ENV1     
+TH T100099-002TRAN1    
+TPI1.00 011344139745                    R
+0001  3.20 W
+00ANN
+01A01                                                                                                              3111001955          1775000.00  5.62536001                                                                                GEN5                                                                            
+02A4321 CULVER STREET                                IRVINE                             CA92612      1F1SEE PRELIMINARY TITLE REPORT                                                    2003
+02B  16                                                                                2HUSBAND AND WIFE AS JOINT TENANTS                           1        
+02CAlan Applicant                                              
+02E       1775000.00                                                                                
+03ABW000564260Alan                                                                  Applicant                              9493215678 4516M 0          19720807sjeyaprakash@impacmail.com                                                      
+03C000564260ZG4321 CULVER STREET                                Irvine                             CA92612    O 6                                                    
+03C000564260BH4321 CULVER STREET                                IRVINE                             CA92612                                                           
+04A000564260NOCO                               12436 HOOPLA                       MISSION VIEJO                      CA92692    N 3   3MAIN MAN                 9496537984
+05H000564260126        4593.00
+05H000564260122         363.00
+05H000564260226       10217.90
+05H000564260222         363.00
+05H000564260201          35.00
+05H000564260214         163.00
+05I00056426020    50000.00
+06C00056426003                                                                                                                     789658                              250000.00                                                                                          
+06C00056426008                                                                                                                     2222222                            1900000.00                                                                                          
+06C000564260M1                                                                                                                     741028                              250000.00                                                                                          
+06C000564260F4                                                                                                                     111111111                           750000.00                                                                                          
+06C000564260F4 BROWN PRECISION APPRAISAL          7818 NE 124TH ST                   KIRKLAND                           WA98304    345435                                 200.00                                                                                          
+06C000564260F3 BROWN PRECISION APPRAISAL          7818 NE 124TH ST                   KIRKLAND                           WA98304    56547657                              4500.00                                                                                          
+06C000564260SG BROWN PRECISION APPRAISAL          7818 NE 124TH ST                   KIRKLAND                           WA98304    787897                                 470.00                                                                                          
+06C000564260F4 BROWN PRECISION APPRAISAL          7818 NE 124TH ST                   KIRKLAND                           WA98304    345435                                 200.00                                                                                          
+06C000564260F3 BROWN PRECISION APPRAISAL          7818 NE 124TH ST                   KIRKLAND                           WA98304    56547657                              4500.00                                                                                          
+06C000564260SG BROWN PRECISION APPRAISAL          7818 NE 124TH ST                   KIRKLAND                           WA98304    787897                                 470.00                                                                                          
+06C000564260F1 BROWN PRECISION APPRAISAL          7818 NE 124TH ST                   KIRKLAND                           WA98304    76898                                 3570.00                                                                                          
+06G0005642604321 CULVER STREET                 IRVINE                             CA92612    H14      750000.00      413359.00           0.00        4956.00         198.00       -5154.00YY1                
+06G000564260123 RENTAL                         MISSION VIEJO                      CA92692    R04      675000.00      349195.00        3500.00        2817.00         223.00         460.00NN2                
+06G0005642602 Rental                           Mission Viejo                      CA92692    R14      700000.00      419020.00        3300.00        3260.00           0.00          40.00NN3                
+06G0005642603 Rental                           Mission Viejo                      CA92690    R14      600000.00     1505524.00        2500.00       13521.00           0.00      -11021.00NN4                
+06L000564260M HOMESIDE LENDING INC                                                                                                00460000009533                        3260.00344      419020.00N4 NNNY
+06L000564260M HOMESIDE                                                                                                            0046913                               3260.00  0      419000.00N4 NNNY
+06L000564260M WELLS FARGO HM MORTGAG                                                                                              0063789147                            4593.00147      378104.00N4 NNNY
+06L000564260M PNC MORTGAGE SERVICING                                                                                              0094278083755                         2045.00340      256963.00N4 NNNY
+06L000564260M GREEN POINT SAVINGS                                                                                                 0007137440918                          363.00  0       32437.00N4 NNNY
+06L000564260R CITIBANK VISA                                                                                                       003426330128                            67.00 49        3254.00N  NN  
+06L000564260R CITIBANK PREFERRED M/C                                                                                              090860410654                            55.00 49        2680.00N  NN  
+06L000564260R FUSA BANK                                                                                                           3975577109678                           41.00 51        2062.00N  NN  
+06L000564260R FIRST USA BANK                                                                                                      0242567227388543                        30.00 51        1512.00N  NN  
+06L000564260O AMEX                                                                                                                07732254                               672.00  0         672.00N  NN  
+06L000564260I BANK OF AMERICA                                                                                                     00071429504                            299.00  0         299.00N  NN  
+07A     3550000.00           0.00           0.00           0.00        1941.41        1542.00           0.00           0.00      500000.00           0.00           0.00
+08A000564260NNNNNNNNN01NY125
+10A000564260N4                              N
+10B ManagerC2 TPO1                                                      8583124900C2 FINANCIAL CORPORATION TEST      10509 VISTA SORRENTO SUITE 200                                        SAN DIEGO                          CA92121    
+10R0005642606 
+00070 3.20 
+99BN       3950000.00       01                                                                                                                   
+ADSLoanOriginatorID                   196648                                            
+ADSLoanOriginationCompanyID           135622                                            
+ADSAppraisalIdentifier                                                                  
+ADSHMDAGenderRefusalIndicator         000564260:N                                       
+ADSHMDAEthnicityType                  000564260:NotApplicable                           
+ADSHMDAEthnicityRefusalIndicator      000564260:N                                       
+ADSHMDARaceRefusalIndicator           000564260:N                                       
+00011 3.20 
+LNC1A01                 N     5.000                      N2018012520180301  0.000   1.970  
+PIDIA71AS                                       GEN5 
+PCH360Y01N   
+ARM  1.79911  4.125  5.875
+TT TRAN1    
+ET ENV1     
